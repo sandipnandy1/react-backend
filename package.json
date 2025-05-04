@@ -1,4 +1,5 @@
 {
+  "name": "server",
   "scripts": {
     "start": "node index.js",
   },
