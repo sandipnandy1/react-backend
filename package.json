@@ -1,7 +1,7 @@
 {
   "name": "server",
   "scripts": {
-    "start": "node index.js",
+    "start": "node index.js"
   },
   "dependencies": {
     "@sendgrid/mail": "^8.1.5",
